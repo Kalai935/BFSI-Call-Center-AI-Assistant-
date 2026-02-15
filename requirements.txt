@@ -1,0 +1,13 @@
+torch
+transformers
+sentence-transformers
+langchain
+langchain-community
+chromadb
+streamlit
+accelerate
+bitsandbytes
+peft
+datasets
+tiktoken
+trl
