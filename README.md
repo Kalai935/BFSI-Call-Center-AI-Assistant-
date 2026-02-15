@@ -505,7 +505,7 @@ This project is licensed under the MIT License
 For questions, issues, or feedback:
 
 - **Email**: kalaimuthu098@gmail.com
-- **Issues**: [GitHub Issues](https://github.com/your-org/bfsi-call-center-ai/issues)
+- **Issues**: [GitHub Issues](https://github.com/Kalai935/BFSI-Call-Center-AI-Assistant-/issues)
 ---
 
 ## 🙏 Acknowledgments
