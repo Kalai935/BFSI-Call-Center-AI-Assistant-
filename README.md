@@ -151,8 +151,8 @@ tiktoken
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-org/bfsi-call-center-ai.git
-cd bfsi-call-center-ai
+git clone https://github.com/Kalai935/BFSI-Call-Center-AI-Assistant-.git
+cd BFSI_AI_ASSISTANT
 ```
 
 ### Step 2: Create Virtual Environment (Recommended)
